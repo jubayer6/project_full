@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="187" height="45" viewBox="0 0 187 45">
+  <g id="Group_5969" data-name="Group 5969" transform="translate(-16407 16497)">
+    <path id="Rectangle_574" data-name="Rectangle 574" d="M0,0H187V22a23,23,0,0,1-23,23H23A23,23,0,0,1,0,22Z" transform="translate(16407 -16497)" fill="#0f1d2d"/>
+    <g id="Group_5968" data-name="Group 5968">
+      <circle id="Ellipse_599" data-name="Ellipse 599" cx="9" cy="9" r="9" transform="translate(16420 -16487)" fill="#fff"/>
+      <g id="Group_365" data-name="Group 365" transform="translate(16153 -16650)">
+        <circle id="Ellipse_600" data-name="Ellipse 600" cx="2" cy="2" r="2" transform="translate(330 170)" fill="#fff"/>
+        <circle id="Ellipse_601" data-name="Ellipse 601" cx="2" cy="2" r="2" transform="translate(337 170)" fill="#fff"/>
+        <circle id="Ellipse_602" data-name="Ellipse 602" cx="2" cy="2" r="2" transform="translate(344 170)" fill="#fff"/>
+        <circle id="Ellipse_603" data-name="Ellipse 603" cx="2" cy="2" r="2" transform="translate(351 170)" fill="#fff"/>
+        <circle id="Ellipse_604" data-name="Ellipse 604" cx="2" cy="2" r="2" transform="translate(358 170)" fill="#fff"/>
+      </g>
+      <circle id="Ellipse_605" data-name="Ellipse 605" cx="7" cy="7" r="7" transform="translate(16422 -16485)" fill="#313131"/>
+    </g>
+  </g>
+</svg>
